@@ -2,11 +2,11 @@
 A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences
 
 
-                                                     ______ ______ ______ __  __
-                                                     / ____// ____//_  __// / / /
-                                                    / / __ / /      / /  / / / / 
-                                                   / /_/ // /___   / /  / /_/ /  
-                                                   \____/ \____/  /_/   \____/   
+                                                  ______ ______ ______ __  __
+                                                  / ____// ____//_  __// / / /
+                                                 / / __ / /      / /  / / / / 
+                                                / /_/ // /___   / /  / /_/ /  
+                                                \____/ \____/  /_/   \____/   
                                                    
                                                    
  [![gctu.png](https://i.postimg.cc/yY4gc7ww/gctu.png)](https://postimg.cc/hhstqR4r)
