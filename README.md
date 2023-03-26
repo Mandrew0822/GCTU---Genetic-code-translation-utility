@@ -1,15 +1,10 @@
 # GCTU---Genetic-code-translation-utility
 A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences
 
+<div style="text-align:center"><img src="https://i.postimg.cc/fy7wrG57/gctu2.png)](https://postimg.cc/LgXKq0ch)"/></div>.                                                                       
 
-                                        ______ ______ ______ __  __
-                                        / ____// ____//_  __// / / /
-                                       / / __ / /      / /  / / / / 
-                                      / /_/ // /___   / /  / /_/ /  
-                                      \____/ \____/  /_/   \____/   
-                                                   
-                                                   
- [![gctu.png](https://i.postimg.cc/yY4gc7ww/gctu.png)](https://postimg.cc/hhstqR4r)
+
+[![gctu.png](https://i.postimg.cc/yY4gc7ww/gctu.png)](https://postimg.cc/hhstqR4r)
   
  [Make sure to download the .zip file from github or git clone it and extract it to your home directory]
 * Installation
