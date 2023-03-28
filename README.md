@@ -7,7 +7,7 @@ A simple command line tool which allows one to convert DNA code sequences to the
   * cd GCTU-master
   * sudo sh install.sh
  
- When using GCTU you have to put the string of nucleotides in one long strand instead of spacing it out into codons, hope you enjoy using GTCU!
+ When using GCTU you have to put the string of nucleotides in one long strand instead of spacing it out into codons, hope you enjoy using GCTU!
  
   
  [![gctu.png](https://i.postimg.cc/yY4gc7ww/gctu.png)](https://postimg.cc/hhstqR4r)
