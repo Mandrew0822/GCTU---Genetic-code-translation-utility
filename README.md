@@ -4,7 +4,7 @@ A simple command line tool which allows one to convert DNA code sequences to the
 
  [Make sure to download the .zip file from github or git clone it and extract it to your home directory]
 * Installation
-  * cd GCTU-master
+  * cd GCTU---Genetic-code-translation-utility-master
   * sudo sh install.sh
  
  When using GCTU you have to put the string of nucleotides in one long strand instead of spacing it out into codons, hope you enjoy using GCTU!
